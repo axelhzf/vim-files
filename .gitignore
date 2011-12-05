@@ -4,3 +4,8 @@
 .*.sw[a-z]
 *.un~
 Session.vim
+
+#----------
+# Mac files
+#----------
+.DS_Store
