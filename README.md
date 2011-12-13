@@ -6,7 +6,7 @@ Ficheros de configuración para vim. Colocar en `~/.vim/`
 
     mv ~/.vim ~/.vim_bak
     mv ~/.vimrc ~/.vimrc_back
-    git clone http:/ ~/.vimrc 
+    git clone git@github.com:axelhzf/vim-files.git ~/.vim
     echo ":so ~/.vim/.vimrc" > ~/.vimrc
  
 ## Markup preview
@@ -22,4 +22,4 @@ Ficheros de configuración para vim. Colocar en `~/.vim/`
 ### Uso:
 
 * `:Hammer` - Comando
-* `<cmd>+p` - Atajo de teclado
+* `<cmd>+r` - Atajo de teclado
